@@ -1,0 +1,15 @@
+lang: en
+
+home:
+  welcome: Hello, here are some words.
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: blog.josh
+  description: A blog
+  title: "=title"
+  image: "=image"
+  lang: en
