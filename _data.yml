@@ -12,4 +12,6 @@ metas:
   description: A blog
   title: "=title"
   image: "=image"
+  twitter: "@phocks"
   lang: en
+  generator: true
